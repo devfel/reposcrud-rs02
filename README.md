@@ -5,6 +5,6 @@ Store repositories of my portfolio to allow CRUD and Likes - ChallengeRS-02
   RS Challenge 2: NodeJS Concepts
 </h3>
 
-## :rocket: Sobre o desafio
+## :rocket: About the Challenge
 
 Create a application to store projects (in this context repositories) and it's texts from scrap using [Express](https://expressjs.com/pt-br/).
